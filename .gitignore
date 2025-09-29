@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.pytest_cache/
+*.py[codz]
+*$py.class
+
+# Environments
+.env
+.venv
+
+# Streamlit
+.streamlit/secrets.toml
